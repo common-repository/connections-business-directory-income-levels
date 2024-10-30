@@ -1,0 +1,227 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Connections Business Directory Extension - Income Level\n"
+"POT-Creation-Date: 2019-07-18 16:53-0400\n"
+"PO-Revision-Date: 2019-07-18 16:53-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: connections_income_levels.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: connections_income_levels.php:214
+msgid "Choose..."
+msgstr ""
+
+#: connections_income_levels.php:215
+msgid "Under $5,000"
+msgstr ""
+
+#: connections_income_levels.php:216
+msgid "$5,000 to $9,999"
+msgstr ""
+
+#: connections_income_levels.php:217
+msgid "$10,000 to $14,999"
+msgstr ""
+
+#: connections_income_levels.php:218
+msgid "$15,000 to $19,999"
+msgstr ""
+
+#: connections_income_levels.php:219
+msgid "$20,000 to $24,999"
+msgstr ""
+
+#: connections_income_levels.php:220
+msgid "$25,000 to $29,999"
+msgstr ""
+
+#: connections_income_levels.php:221
+msgid "$30,000 to $34,999"
+msgstr ""
+
+#: connections_income_levels.php:222
+msgid "$35,000 to $39,999"
+msgstr ""
+
+#: connections_income_levels.php:223
+msgid "$40,000 to $44,999"
+msgstr ""
+
+#: connections_income_levels.php:224
+msgid "$45,000 to $49,999"
+msgstr ""
+
+#: connections_income_levels.php:225
+msgid "$50,000 to $54,999"
+msgstr ""
+
+#: connections_income_levels.php:226
+msgid "$55,000 to $59,999"
+msgstr ""
+
+#: connections_income_levels.php:227
+msgid "$60,000 to $64,999"
+msgstr ""
+
+#: connections_income_levels.php:228
+msgid "$65,000 to $69,999"
+msgstr ""
+
+#: connections_income_levels.php:229
+msgid "$70,000 to $74,999"
+msgstr ""
+
+#: connections_income_levels.php:230
+msgid "$75,000 to $79,999"
+msgstr ""
+
+#: connections_income_levels.php:231
+msgid "$80,000 to $84,999"
+msgstr ""
+
+#: connections_income_levels.php:232
+msgid "$85,000 to $89,999"
+msgstr ""
+
+#: connections_income_levels.php:233
+msgid "$90,000 to $94,999"
+msgstr ""
+
+#: connections_income_levels.php:234
+msgid "$95,000 to $99,999"
+msgstr ""
+
+#: connections_income_levels.php:235
+msgid "$100,000 to $104,999"
+msgstr ""
+
+#: connections_income_levels.php:236
+msgid "$105,000 to $109,999"
+msgstr ""
+
+#: connections_income_levels.php:237
+msgid "$110,000 to $114,999"
+msgstr ""
+
+#: connections_income_levels.php:238
+msgid "$115,000 to $119,999"
+msgstr ""
+
+#: connections_income_levels.php:239
+msgid "$120,000 to $124,999"
+msgstr ""
+
+#: connections_income_levels.php:240
+msgid "$125,000 to $129,999"
+msgstr ""
+
+#: connections_income_levels.php:241
+msgid "$130,000 to $134,999"
+msgstr ""
+
+#: connections_income_levels.php:242
+msgid "$135,000 to $139,999"
+msgstr ""
+
+#: connections_income_levels.php:243
+msgid "$140,000 to $144,999"
+msgstr ""
+
+#: connections_income_levels.php:244
+msgid "$145,000 to $149,999"
+msgstr ""
+
+#: connections_income_levels.php:245
+msgid "$150,000 to $154,999"
+msgstr ""
+
+#: connections_income_levels.php:246
+msgid "$155,000 to $159,999"
+msgstr ""
+
+#: connections_income_levels.php:247
+msgid "$160,000 to $164,999"
+msgstr ""
+
+#: connections_income_levels.php:248
+msgid "$165,000 to $169,999"
+msgstr ""
+
+#: connections_income_levels.php:249
+msgid "$170,000 to $174,999"
+msgstr ""
+
+#: connections_income_levels.php:250
+msgid "$175,000 to $179,999"
+msgstr ""
+
+#: connections_income_levels.php:251
+msgid "$180,000 to $184,999"
+msgstr ""
+
+#: connections_income_levels.php:252
+msgid "$185,000 to $189,999"
+msgstr ""
+
+#: connections_income_levels.php:253
+msgid "$190,000 to $194,999"
+msgstr ""
+
+#: connections_income_levels.php:254
+msgid "$195,000 to $199,999"
+msgstr ""
+
+#: connections_income_levels.php:255
+msgid "$200,000 to $249,999"
+msgstr ""
+
+#: connections_income_levels.php:256
+msgid "$250,000 and over"
+msgstr ""
+
+#: connections_income_levels.php:323 connections_income_levels.php:374
+#: connections_income_levels.php:425 includes/class.widgets.php:20
+#: includes/class.widgets.php:25 includes/class.widgets.php:72
+#: includes/class.widgets.php:124
+msgid "Income Level"
+msgstr ""
+
+#: includes/class.widgets.php:80
+msgid "Title:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Connections Business Directory Extension - Income Level"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://connections-pro.com/add-on/income-level/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"An extension for the Connections plugin which adds a metabox for income "
+"levels."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Steven A. Zahm"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://connections-pro.com"
+msgstr ""
